@@ -45,3 +45,6 @@
 40. vi README.md<br>
 41. git add README.md<br>
 42. git commit -m "Commit 11"<br>
+43. vi README.md<br>
+44. git add README.md<br>
+45. git commit -m "Commit 12"<br>
