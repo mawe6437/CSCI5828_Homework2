@@ -57,3 +57,7 @@
 52. vi README.md<br>
 53. git add README.md<br>
 54. git commit -m "Commit 13"<br>
+55. git add GitGraph.png<br>
+56. vi README.md<br>
+57. git add README.md<br>
+58. git commit -m "Commit 14"<br>
