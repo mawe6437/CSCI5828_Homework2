@@ -29,5 +29,19 @@
 24. vi README.md<br>
 25. git add README.md<br>
 26. git commit -m "Commit 6"<br>
-
-
+27. git log<br>
+28. git checkout 430f18e5eac301511ed55a55e75e5fdac28c39d1<br>
+29. git checkout -b bug-fix-experimental<br>
+30. vi README.md<br>
+31. git add README.md<br>
+32. git commit -m "Commit 7"<br>
+33. vi README.md<br>
+34. git add README.md<br>
+35. git commit -m "Commit 8"<br>
+36. vi README.md<br>
+37. git add README.md<br>
+38. git commit -m "Commit 9"<br>
+39. git checkout bug-fix<br>
+40. vi README.md<br>
+41. git add README.md<br>
+42. git commit -m "Commit 11"<br>
