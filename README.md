@@ -15,6 +15,13 @@
 10. vi README.md<br>
 11. git add README.md<br>
 12. git commit -m "Commit 4"<br>
+13. git log<br>
+14. git checkout 430f18e5eac301511ed55a55e75e5fdac28c39d1<br>
+15. git checkout -b bug-fix-experimental<br>
+16. vi README.md<br>
+17. git add README.md<br>
+18. git commit -m "Commit 7"<br>
+
 
 
 
