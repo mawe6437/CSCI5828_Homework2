@@ -13,5 +13,8 @@
 8. vi README.md<br>
 9. git add README.md<br>
 10. git commit -m "Commit 2"<br>
-
+11. git checkout master<br>
+12. vi README.md<br>
+13. git add README.md<br>
+14. git commit -m "Commit 10"<br>
 
