@@ -26,5 +26,8 @@
 21. vi README.md<br>
 22. git add README.md<br>
 23. git commit -m "Commit 5"<br>
+24. vi README.md<br>
+25. git add README.md<br>
+26. git commit -m "Commit 6"<br>
 
 
